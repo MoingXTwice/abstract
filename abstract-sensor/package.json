@@ -1,0 +1,22 @@
+{
+  "name": "abstract-sensor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selenehyun/abstract-sensor.git"
+  },
+  "author": "Tim Kang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/selenehyun/abstract-sensor/issues"
+  },
+  "homepage": "https://github.com/selenehyun/abstract-sensor#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
